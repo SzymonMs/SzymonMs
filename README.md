@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 
 I am Szymon. I come from Poland. I am a student of automation and robotics at the Poznań University of Technology.
 - 🔭 I’m currently working on a game console project in the science club  robotics, automation and IT KN RAI and in my free time on my own mini projects.
