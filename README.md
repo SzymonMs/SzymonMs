@@ -6,7 +6,7 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 - 🤔 I’m looking for help in finding topics for various interesting projects.
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
-[<img align="left" alt="tassiaaccioly | Facebook" width="22px" src="./facebook.svg" />[facebook]
+[<img align="left" alt="tassiaaccioly | Facebook" width="22px" src="./facebook.svg" />][facebook]
 [facebook]: https://www.facebook.com/szymon.murawski.948/
 
 <!--
