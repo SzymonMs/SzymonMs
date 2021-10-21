@@ -6,8 +6,9 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 - 🤔 I’m looking for help in finding topics for various interesting projects.
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
+### My statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true)](https://github.com/SzymonMs/github-readme-stats)
-
+![SzymonMs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 
 
 
