@@ -12,6 +12,7 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 
 <img align="center" width="150px" src="https://img.shields.io/badge/-C++-orange?logo=C++&logoColor=white&style=plastic" />
 <img align="center" width="150px" src="https://img.shields.io/badge/-Python-orange?logo=Python&logoColor=white&style=plastic" />
+<img align="center" width="150px" src="https://img.shields.io/badge/-Matlab-orange?logo=Octave&logoColor=white&style=plastic" />
 
 
 
