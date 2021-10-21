@@ -7,7 +7,7 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
 [<img align="left" alt="tassiaaccioly | Facebook" width="22px" src="./facebook.svg" />][facebook]
-[facebook]: https://www.facebook.com/szymon.murawski.948/
+[facebook]: https://www.facebook.com/szymon.murawski.948/in/tassiaccioly
 
 <!--
 **SzymonMs/SzymonMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
