@@ -11,8 +11,8 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 ![SzymonMs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 
 <img align="center" width="150px" src="https://img.shields.io/badge/-C++-orange?logo=C++&logoColor=white&style=plastic" />
-<img align="center" width="150px" src="https://img.shields.io/badge/-Python-orange?logo=Python&logoColor=white&style=plastic" />
-<img align="center" width="150px" src="https://img.shields.io/badge/-Matlab-orange?logo=Octave&logoColor=white&style=plastic" />
+<img align="center" width="150px" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=yellow&style=plastic" />
+<img align="center" width="150px" src="https://img.shields.io/badge/-Matlab-61DAFB?logo=Matrix&logoColor=orange&style=plastic" />
 
 
 
