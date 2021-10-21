@@ -8,6 +8,8 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs)](https://github.com/SzymonMs/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SzymonMs&repo=Meteo)](https://github.com/SzymonMs/meteo)
+
 
 <!--
 **SzymonMs/SzymonMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
