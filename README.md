@@ -13,7 +13,8 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 <img align="center" width="150px" src="https://img.shields.io/badge/-C++-orange?logo=C++&logoColor=white&style=plastic" />
 <img align="center" width="150px" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=yellow&style=plastic" />
 <img align="center" width="150px" src="https://img.shields.io/badge/-Matlab-61DAFB?logo=Matrix&logoColor=orange&style=plastic" />
-<img align="center" width="150px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fmatlab-logo%2F&psig=AOvVaw261HPiwZOiaalf0SAFAMK6&ust=1634939614394000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDku-6-3PMCFQAAAAAdAAAAABAE" />
+<img align="center" width="150px" src="![image](https://user-images.githubusercontent.com/84814415/138362280-b262676f-62ca-4652-aeb0-104a8493de1f.png)
+" />
 
 
 
