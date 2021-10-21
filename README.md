@@ -1,6 +1,4 @@
 ### Hi there 👋
-[<img align="left" alt="SzymonMs | Facebook" width="22px" src="./facebook.svg" />][facebook]
-[facebook]: https://www.facebook.com/szymon.murawski.948/in/tassiaccioly
 
 I am Szymon. I come from Poland. I am a student of automation and robotics at the Poznań University of Technology.
 - 🔭 I’m currently working on a game console project in the science club  robotics, automation and IT KN RAI and in my free time on my own mini projects.
