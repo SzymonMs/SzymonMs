@@ -4,7 +4,9 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 - 🔭 I’m currently working on a game console project in the science club  robotics, automation and IT KN RAI and in my free time on my own mini projects.
 - 🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, PLC, python, control theory and many others.
 - 🤔 I’m looking for help in finding topics for various interesting projects.
-- 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
+- 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.[![Anurag's GitHub stats]
+
+[![SzymonMs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs)](https://github.com/SzymonMS/github-readme-stats)
 
 
 <!--
