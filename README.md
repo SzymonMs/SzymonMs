@@ -9,7 +9,7 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 ### My statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true)](https://github.com/SzymonMs/github-readme-stats)
-![SzymonMs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
+![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 
 ### My skills
 
