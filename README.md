@@ -13,6 +13,9 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 
 [![szymonMs github activity graph](https://activity-graph.herokuapp.com/graph?username=SzymonMs&theme=react-dark)](https://github.com/SzymonMs/github-readme-activity-graph)
 
+![](https://komarev.com/ghpvc/?username=SzymonMs&color=blueviolet)
+
+
 ### My skills
 
 <img align="center" width="150px" src="https://img.shields.io/badge/-C++-orange?logo=C++&logoColor=white&style=plastic" /><img align="center" width="150px" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=yellow&style=plastic" /><img align="center" width="150px" src="https://img.shields.io/badge/-Matlab-61DAFB?logo=Matrix&logoColor=orange&style=plastic" /><img align="center" width="150px" src="https://img.shields.io/badge/-Arduino-white?logo=Arduino&logoColor=0099CC&style=plastic" /><img align="center" width="150px" src="https://img.shields.io/badge/-Rasberry%20Pi-white?logo=Raspberry-Pi&logoColor=CC0033&style=plastic" />theme=dracula
