@@ -7,8 +7,11 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
 ### My statistics
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true)](https://github.com/SzymonMs/github-readme-stats)
 ![SzymonMs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
+
+### My skills
 
 <img align="center" width="150px" src="https://img.shields.io/badge/-C++-orange?logo=C++&logoColor=white&style=plastic" />
 <img align="center" width="150px" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=yellow&style=plastic" />
