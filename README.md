@@ -11,8 +11,6 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true)](https://github.com/SzymonMs/github-readme-stats)
 ![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 
-[![szymonMs github activity graph](https://activity-graph.herokuapp.com/graph?username=SzymonMs&theme=react-dark)](https://github.com/SzymonMs/github-readme-activity-graph)
-
 
 ![](https://komarev.com/ghpvc/?username=SzymonMs&color=blueviolet)
 
@@ -26,6 +24,8 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 
 <!--
 **SzymonMs/SzymonMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![szymonMs github activity graph](https://activity-graph.herokuapp.com/graph?username=SzymonMs&theme=react-dark)](https://github.com/SzymonMs/github-readme-activity-graph)
 
 Here are some ideas to get you started:
 
