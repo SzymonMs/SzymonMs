@@ -13,6 +13,7 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 
 [![szymonMs github activity graph](https://activity-graph.herokuapp.com/graph?username=SzymonMs&theme=react-dark)](https://github.com/SzymonMs/github-readme-activity-graph)
 
+
 ![](https://komarev.com/ghpvc/?username=SzymonMs&color=blueviolet)
 
 
