@@ -24,6 +24,8 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 ### My Certificates
 <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/certificate.png">
+  <p align="center">
+<img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Machine_Learning_Onramp/certificate.png">
 
 
 
