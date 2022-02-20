@@ -26,12 +26,15 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/certificate.png">
   <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Machine_Learning_Onramp/certificate.png">
+    <p align="center">
+<img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Wireless_Communications_Onramp/certificate.png">
 
 
 
 
 <!--
 **SzymonMs/SzymonMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/SzymonMs/Matlab_Files/blob/main/Wireless_Communications_Onramp/certificate.png
 
 [![szymonMs github activity graph](https://activity-graph.herokuapp.com/graph?username=SzymonMs&theme=react-dark)](https://github.com/SzymonMs/github-readme-activity-graph)
 
