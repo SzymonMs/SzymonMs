@@ -8,9 +8,9 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 
 ### My statistics
 
-I removed the C language from the statistics because it interfered too much
+I removed the C and Assembly languages from the statistics because it interfered too much
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=c)](https://github.com/SzymonMs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c)](https://github.com/SzymonMs)
 ![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 
 
