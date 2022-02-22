@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Szymon. I come from Poland. I am a student of automation and robotics at the Poznań University of Technology.
 - 🔭 I’m currently working on a game console project in the science club  robotics, automation and IT KN RAI, in science club electronics and PLC KN SENSOR and in my free time on my own mini projects.
