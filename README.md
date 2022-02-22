@@ -2,7 +2,7 @@
 
 I am Szymon. I come from Poland. I am a student of automation and robotics at the Poznań University of Technology.
 - 🔭 I’m currently working on a game console project in the science club  robotics, automation and IT KN RAI, in science club electronics and PLC KN SENSOR and in my free time on my own mini projects.
-- 🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, PLC, python, control theory and many others.
+- 🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, AI and ML, PLC, python, control theory and many others.
 - 🤔 I’m looking for help in finding topics for various interesting projects.
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
