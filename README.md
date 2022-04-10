@@ -1,8 +1,8 @@
 # Hi there 👋
 
 I am Szymon. I come from Poland. I am a student of automation and robotics at the Poznań University of Technology.
-- 🔭 I’m currently working on a game console project in the science club  robotics, automation and IT KN RAI, in science club electronics and PLC KN SENSOR and in my free time on my own mini projects.
-- 🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, AI and ML, PLC, python,Kotlin, control theory and many others.
+- 🔭 Currently, I have finished work on a game console project in the scientific circle of robotics, automation and computer science KN RAI. I am currently working in the KUKA youBot project in the same circle. Its purpose is to create a vision system for a robot that will collect objects placed in the room. I will keep you updated on the progress of work. I am also in the electronics science club and PLC KN SENSOR all the time. I am also involved in the design of the DC and stepper motor control station. It is a partial project before the final work at the university. In the near future I will also create my own Android application, create new small projects and update my old repositories.
+- 🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, AI and ML, PLC, python,Kotlin, control theory, drivers, BMS and others.
 - 🤔 I’m looking for help in finding topics for various interesting projects.
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
