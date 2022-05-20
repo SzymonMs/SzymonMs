@@ -6,16 +6,6 @@ I am Szymon. I come from Poland. I am a student of automation and robotics at th
 - 🤔 I’m looking for help in finding topics for various interesting projects.
 - 😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
 
-### My statistics
-
-I removed the C and Assembly languages from the statistics because it interfered too much
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c)](https://github.com/SzymonMs)
-![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
-
-
-![](https://komarev.com/ghpvc/?username=SzymonMs&color=blueviolet)
-
 
 ### My skills
 
@@ -35,6 +25,15 @@ I removed the C and Assembly languages from the statistics because it interfered
 
 
 <!--
+### My statistics
+
+I removed the C and Assembly languages from the statistics because it interfered too much
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Kotlin)](https://github.com/SzymonMs)
+![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
+
+
+![](https://komarev.com/ghpvc/?username=SzymonMs&color=blueviolet)
 **SzymonMs/SzymonMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/SzymonMs/Matlab_Files/blob/main/Wireless_Communications_Onramp/certificate.png
 
