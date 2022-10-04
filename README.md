@@ -28,9 +28,11 @@ I removed the C, Assembly and Makefile languages from the statistics because it 
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Machine_Learning_Onramp/certificate.png">
     <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Wireless_Communications_Onramp/certificate.png">
-
+    <p align="center">
+<img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/Certificate.png">
 
 <!--
+https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/Certificate.png
 ### My statistics
 
 I removed the C and Assembly languages from the statistics because it interfered too much
