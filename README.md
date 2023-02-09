@@ -34,6 +34,8 @@ I removed the C, Assembly and Makefile languages from the statistics because it 
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/Certificate.png">
       <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/1.png">
+        <p align="center">
+<img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
       
  
 <!--
