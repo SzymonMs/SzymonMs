@@ -18,10 +18,7 @@ I am Szymon. I come from Poland. I am an engineer of automation and robotics.
 
 ![](https://komarev.com/ghpvc/?username=SzymonMs&color=blueviolet)
 
-I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
-![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 
 ### My Certificates
 <p align="center">
@@ -39,6 +36,11 @@ I removed the C, Assembly and Makefile languages from the statistics because it 
       
  
 <!--
+
+I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
+![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/Certificate.png
 ### My statistics
 
