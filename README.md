@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I am Szymon. I come from Poland. I am an engineer of automation and robotics.
+I am Szymon. I come from Poland. I am an engineer of automation and robotics. I am currently pursuing a master's degree in automation and robotics with a specialization in vision systems.
 
-🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, PLC, AI and ML, python, control theory and system identification, drivers and others.
+🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, AI, NN, python, control theory and system identification, DSP, Matlab, vison system and many others.
 
 🤔 I’m looking for help in finding topics for various interesting projects.
 
-😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like football, video games, MCU and SW films.
+😄 I’m interested in broadly understood technology, science and mathematics. Privately, I like MCU and SW films.
 
 
 ### My skills
