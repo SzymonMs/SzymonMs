@@ -31,8 +31,12 @@ I am Szymon. I come from Poland. I am an engineer of automation and robotics. I 
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/Certificate.png">
       <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/1.png">
+<p align="center">
+<img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/dlwm.png">
         <p align="center">
 <img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
+
+
       
  
 <!--
