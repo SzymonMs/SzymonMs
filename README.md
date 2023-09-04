@@ -39,21 +39,21 @@ I am Szymon. I come from Poland. I am an engineer of automation and robotics. I 
 <img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
 
 
-      
+### My statistics  
  
-<!--
+I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
+![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
+
+<!--
 I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
 ![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
 https://github.com/SzymonMs/Matlab_Files/blob/main/Optimization_Onramp/Certificate.png
 ### My statistics
-
-I removed the C and Assembly languages from the statistics because it interfered too much
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Kotlin)](https://github.com/SzymonMs)
-![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
+<!--
 
 
 **SzymonMs/SzymonMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
