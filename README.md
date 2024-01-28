@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I am Szymon. I come from Poland. I am an engineer of automation and robotics. I am currently pursuing a master's degree in automation and robotics with a specialization in vision systems.
+I am Szymon. I come from Poland. I am an engineer of automation and robotics. I am currently pursuing a master's degree in automation and robotics with a specialization in vision systems. Nowadays I work in electroenergetic company as a Power Quality Specialist.
 
-🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, AI, NN, python, control theory and system identification, DSP, Matlab, vison system and many others.
+🌱 I’m currently learning many different fields of electronics, programming of STM32 microcontrollers, AI, CNN, python, control theory and system identification, DSP, Matlab, vison system, electroenergetics and many others.
 
 🤔 I’m looking for help in finding topics for various interesting projects.
 
