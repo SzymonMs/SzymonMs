@@ -21,6 +21,13 @@ I am Szymon. I come from Poland. I am an engineer of automation and robotics. I 
 
 
 ### My Certificates
+
+<p align="center">
+<img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
+<p align="center">
+<img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/jetson_1.png">
+<p align="center">
+<img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/Jetson_2.png">
 <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/certificate.png">
   <p align="center">
@@ -35,12 +42,7 @@ I am Szymon. I come from Poland. I am an engineer of automation and robotics. I 
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/dlwm.png">
         <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/symbolic_certfificate.png">
-        <p align="center">
-<img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
-<p align="center">
-<img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/jetson_1.png">
-<p align="center">
-<img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/Jetson_2.png">
+
 
 
 ### My statistics  
