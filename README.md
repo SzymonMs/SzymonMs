@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 I am Szymon. I come from Poland. I am an engineer of automation and robotics. I am currently pursuing a master's degree in automation and robotics with a specialization in vision systems. Nowadays I work in electroenergetic company as a Power Quality Specialist.
 
