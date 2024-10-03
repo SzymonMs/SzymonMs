@@ -22,8 +22,7 @@ I am Szymon and I come from Poland. I am a Master of Science in Engineering of a
 
 ### My Certificates
 
-<p align="center">
-<img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
+
 <p align="center">
 <img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/jetson_1.png">
 <p align="center">
