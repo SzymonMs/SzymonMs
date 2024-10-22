@@ -27,6 +27,7 @@ I am Szymon and I come from Poland. I am a Master of Science in Engineering of a
 <img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/jetson_1.png">
 <img width="320" height="500" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/Jetson_2.png">
 <img width="320" height="500" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Automation_elements/szkolenie.png">
+ <p align="center">
 <img width="320" height="240" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/certificate.png">
 <img width="320" height="240" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Machine_Learning_Onramp/certificate.png">
 <img width="320" height="240" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Wireless_Communications_Onramp/certificate.png">
