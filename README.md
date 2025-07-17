@@ -20,6 +20,17 @@ I am Szymon and I come from Poland. I am a Master of Science in Engineering of a
 
 
 
+
+### My statistics  
+ 
+I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
+![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
+
+<!--
+
+
 ### My Certificates
 
 
@@ -36,14 +47,7 @@ I am Szymon and I come from Poland. I am a Master of Science in Engineering of a
 <img width="320" height="240" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/dlwm.png">
 <img width="320" height="240" src="https://github.com/SzymonMs/Matlab_Files/blob/main/Deep_Learning_Onramp/symbolic_certfificate.png">
 
-### My statistics  
- 
-I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
-![SzymonMs GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonMs&theme=dark&show_icons=true)
-
-<!--
 I removed the C, Assembly and Makefile languages from the statistics because it interfered too much
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonMs&theme=chartreuse-dark&show_icons=true&hide=Assembly,c,Makefile)](https://github.com/SzymonMs)
